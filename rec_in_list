@@ -1,0 +1,11 @@
+#implention of recursion for list
+
+def print_list(list, idx):
+    if idx == len(list):
+        return 
+    print(list[idx])
+    print_list(list, idx + 1)
+
+# Example
+items = ["Rinju", "Python", 38]
+print_list(items, 0)
