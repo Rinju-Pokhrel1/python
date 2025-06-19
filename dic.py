@@ -3,7 +3,7 @@ student={
     "name":"Rinju",
     "age":19,
     "address":"Bagbazar",
-    "phone":"986754837"
+    "phone":"000100020"
 
 }
 print(student)
